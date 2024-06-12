@@ -11,7 +11,7 @@ automáticamente para que los programas no tengan que cargar con esa tarea.
 prefabricados que se pueden usar para realizar tareas como entrada / salida,
 redes y manipulación de fechas.)
 
-![Texto alternativo](https://www.guru99.com/images/2/022220_0635_JDKvsJREvsJ1.png)
+![Texto alternativo](https://www.guru99.com/images/2/022220_0635_JDKvsJREvsJ1.png](https://media.licdn.com/dms/image/D4E12AQHBgWTV5phDHw/article-inline_image-shrink_400_744/0/1683789925642?e=1721865600&v=beta&t=iAVdGP15p0sdAPFiRaJ0HbWxxKEA1w_Pzk2scsKySO4)
 - JDK (Java Development Kit)
 - JRE (Java Runtime Environment)
 - JVM (Java Virtual Machine)
