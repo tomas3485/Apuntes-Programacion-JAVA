@@ -69,6 +69,7 @@ public class Ejemplo {
     }
 }
 ```
+![MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPchar1.png)
 
 ### string
 ```java
