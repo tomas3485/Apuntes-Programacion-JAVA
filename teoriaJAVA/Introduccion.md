@@ -10,6 +10,7 @@ automáticamente para que los programas no tengan que cargar con esa tarea.
 - **Biblioteca estándar enriquecida**: Java incluye una gran cantidad de objetos
 prefabricados que se pueden usar para realizar tareas como entrada / salida,
 redes y manipulación de fechas.)
+
 ![Texto alternativo](https://www.guru99.com/images/2/022220_0635_JDKvsJREvsJ1.png)
 - JDK (Java Development Kit)
 - JRE (Java Runtime Environment)
