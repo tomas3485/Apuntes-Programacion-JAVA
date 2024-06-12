@@ -69,7 +69,7 @@ public class Ejemplo {
     }
 }
 ```
-![MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPchar1.png)
+![MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPchar1.png) | ![MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPchar2.png)
 
 ### string
 ```java
