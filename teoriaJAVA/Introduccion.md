@@ -24,6 +24,14 @@ public class ClaseMain {
     }
 }
 ```
+- Java se basa en clases. Sólo hay clases (métodos, atributos) e interacciones entre ellas.
+- Debe haber al menos una definicion de clase en el programa
+- El programa prinicpal **main** es una función/metodo público de una clase **public class**. Sólo pueden haber 1 **main(String[] args**
+  en el programa (podría haber otros si se cambian los argumentos de entrada, sobrecargar)
+```java
+public static void main(String[] args) {}
+public static void main (int x) {}
+```
 
 
 
