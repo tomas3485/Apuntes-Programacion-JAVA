@@ -32,4 +32,7 @@ Scanner entrada = new Scanner (System.in);
 char caracter;
 caracter = entrada.next().charAt(x);  //Donde x será la posicion (x = 0)
 ```
+## Salida
+Para la salida de datos utilizaremos **System.out.print();**
+
 
