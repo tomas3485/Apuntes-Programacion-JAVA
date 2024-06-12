@@ -18,7 +18,7 @@ public class Ejemplo {
     }
 }
 ```
-[MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint1.png)   [MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint2.png) 
+[MensajeEntradaInt](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint1.png)   [MensajeSalidaInt](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint2.png) 
 
 ### float
 ```java
