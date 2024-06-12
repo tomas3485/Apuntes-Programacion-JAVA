@@ -1,3 +1,4 @@
+# Introducción
 Java es un lenguaje de programación que tiene las siguientes características:
 - **Independencia de la plataforma**: las aplicaciones Java se compilan en un
 código de bytes que se almacena en archivos de clase y se carga en una JVM.
