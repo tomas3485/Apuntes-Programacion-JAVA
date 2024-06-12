@@ -7,3 +7,5 @@
 [Condicionales](teoriaJAVA/Condicionales.md#condicionales)
 
 [Array](teoriaJAVA/Array.md#array)
+
+[Ordenamientos](teoriaJAVA/Ordenamiento.md#ordenamiento)
