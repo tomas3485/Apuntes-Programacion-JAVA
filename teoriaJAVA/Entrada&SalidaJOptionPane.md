@@ -18,6 +18,7 @@ public class Ejemplo {
     }
 }
 ```
+[MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint1.png)   [MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPint2.png) 
 
 ### float
 ```java
@@ -35,6 +36,7 @@ public class Ejemplo {
     }
 }
 ```
+[MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPfloat1.png)   [MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPfloat2.png) 
 
 ### double
 ```java
@@ -52,6 +54,7 @@ public class Ejemplo {
     }
 }
 ```
+[MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPdouble1.png)   [MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPdouble2.png) 
 
 ### char
 ```java
@@ -87,4 +90,5 @@ public class Ejemplo {
     }
 }
 ```
+[MensajeEntrada](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPstring1.png)   [MensajeSalida](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/JOPstring2.png) 
 
