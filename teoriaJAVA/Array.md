@@ -20,3 +20,27 @@ public class Ejemplo {
     }
 }
 ```
+# Rellenar y mostrar el contenido 
+```java
+import java.util.Scanner;
+
+public class Ejemplo {
+    public static void main(String[] args) {
+        Scanner entrada = new Scanner(System.in);
+
+        int[] almacenNumeros = new int[5];  //Array que almacena numeros (5 max)
+                                            //con .length accedo al tamaño
+
+        //Bucle para solicitar y guardar los numeros
+        for(int i = 0 ; i< almacenNumeros.length ; i++){
+            System.out.println("Numero " + (i+1));
+            almacenNumeros[i] = entrada.nextInt();
+        }
+
+        //Bucle para mostrar los numeros guardados
+        for(int numero : almacenNumeros){
+            System.out.print(numero + ", ");
+        }
+    }
+}
+```
