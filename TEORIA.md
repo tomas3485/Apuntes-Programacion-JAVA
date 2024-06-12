@@ -8,4 +8,4 @@
 
 [Array](teoriaJAVA/Array.md#array)
 
-[Ordenamientos](teoriaJAVA/Ordenamiento.md#ordenamiento)
+[Ordenamientos](teoriaJAVA/Ordenamientos.md#ordenamientos)
