@@ -1,5 +1,6 @@
 Java es un lenguaje de programación que tiene las siguientes características:
-- **Independencia de la plataforma**: las aplicaciones Java se compilan en un
+
+![Estrucuta JAVA](https://www.guru99.com/images/2/022220_0635_JDKvsJREvsJ1.png) | - **Independencia de la plataforma**: las aplicaciones Java se compilan en un
 código de bytes que se almacena en archivos de clase y se carga en una JVM.
 Dado que las aplicaciones se ejecutan en una JVM, se pueden ejecutar en
 muchos sistemas operativos y dispositivos diferentes.
@@ -10,3 +11,14 @@ automáticamente para que los programas no tengan que cargar con esa tarea.
 - **Biblioteca estándar enriquecida**: Java incluye una gran cantidad de objetos
 prefabricados que se pueden usar para realizar tareas como entrada / salida,
 redes y manipulación de fechas.)
+
+
+
+
+
+
+
+
+
+
+
