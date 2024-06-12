@@ -16,6 +16,15 @@ redes y manipulación de fechas.)
 - JRE (Java Runtime Environment)
 - JVM (Java Virtual Machine)
 
+## Hola Mundo
+```java
+public class ClaseMain {
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+}
+```
+
 
 
 
