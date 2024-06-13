@@ -9,3 +9,5 @@
 [Array](teoriaJAVA/Array.md#array)
 
 [Ordenamientos](teoriaJAVA/Ordenamientos.md#ordenamientos)
+
+[Busqueda Secuencial](teoriaJAVA/BusquedaSecuencial.md#busquedasecuencial)
