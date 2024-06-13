@@ -27,3 +27,31 @@ public class Ejemplo {
     }
 }
 ```
+## Ordenamiento por Inserción
+La ordenación por inserción, o "Insertion Sort", es un algoritmo que construye la lista ordenada de manera incremental, tomando un elemento
+de la lista de entrada y encontrando su posición correcta en la lista ordenada, repitiendo este proceso hasta que todos los elementos estén ordenados.
+```java
+public class Ejemplo {
+    public static void main(String[] args) {
+        int[] cadenaNumeros = {6,8,1,3,2,9,14};
+        int aux;
+
+        //Ordenamiento por Inserción
+        for(int i = 0 ; i<cadenaNumeros.length ; i++){
+            int pos = i;
+            aux = cadenaNumeros[i] ;
+
+            while((pos > 0) && (cadenaNumeros[pos - 1] > aux)){
+                cadenaNumeros[pos] = cadenaNumeros[pos - 1];
+                pos--;
+            }
+            cadenaNumeros[pos] = aux;
+        }
+
+        //Mostrar cadena de numeros
+        for(int i = 0 ; i<cadenaNumeros.length ; i++){
+            System.out.print(cadenaNumeros[i] + ", ");
+        }
+    }
+}
+```
