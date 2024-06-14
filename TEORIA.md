@@ -11,3 +11,5 @@
 [Ordenamientos](teoriaJAVA/Ordenamientos.md#ordenamientos)
 
 [Busqueda Secuencial](teoriaJAVA/BusquedaSecuencial.md#busquedasecuencial)
+
+[Matrices](teoriaJAVA/Matrices.md#matrices)
