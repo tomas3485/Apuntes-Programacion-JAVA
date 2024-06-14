@@ -1,4 +1,5 @@
 # Índice de Teoría
+## Fundamentos de Programación en Java
 [Introducción](teoriaJAVA/Introduccion.md#introduccion)
 - [Tipos de Variables](teoriaJAVA/TiposDeVariables.md#tiposdevariables)
 - [Entrada y Salida de datos](teoriaJAVA/Entrada&Salida.md#entrada&salida)
@@ -13,3 +14,5 @@
 [Busqueda Secuencial](teoriaJAVA/BusquedaSecuencial.md#busquedasecuencial)
 
 [Matrices](teoriaJAVA/Matrices.md#matrices)
+
+## POO - Programación Orientada a Objetos
