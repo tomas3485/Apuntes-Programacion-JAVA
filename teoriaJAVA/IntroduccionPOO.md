@@ -23,6 +23,7 @@ public class Main {
 ```
 ### Creación de métodos
 Los metodos se hacen en el interior de la clase. Su estructura es simple:
+
 (modificador de acceso) (valor de retorno) (nombreMetodo)("posibles parametros que recibe este metodo"){}
 ```java
 public class Coche {
