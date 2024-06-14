@@ -34,3 +34,51 @@ public class Coche {
     }
 }
 ```
+## Ejemplo de clase
+```java
+public class Coche {
+    //Atributos
+    String color;
+    String marca;
+    int km;
+    
+    //Metodos
+    public static void main(String[] args) {
+        Coche coche1 = new Coche();
+        
+        coche1.color = "Negro";
+        coche1.marca = "Toyota";
+        coche1.km = 57000;
+    }
+    
+}
+```
+### Métodos: Parámetros y argumentos
+**Parámetro**: es una declaración de variable u objeto
+**Argumento**: es un valor que se envía
+Los parámetros los ponemos en la declaración del método
+```java
+public void metodo(int num, String cadena){
+        
+    }
+```
+Los argumentos los ponemos en la invocación del método.
+```java
+coche1.metodo(1,"Ford");
+```
+### Métodos: Retorno de valores
+```java
+public class Operacion {
+    public int suma(int a, int b){
+        int suma = a + b;
+        return suma;
+    }
+
+    public static void main(String[] args) {
+        Operacion op1 = new Operacion();
+
+        int suma = op1.suma(10,5);
+        System.out.println("La suma es: " + suma);
+    }
+}
+```
