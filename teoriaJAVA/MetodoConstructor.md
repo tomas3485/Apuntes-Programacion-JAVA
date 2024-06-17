@@ -13,5 +13,26 @@ Persona persona1 = new Persona();   //Persona() es la llamada al método constru
 - Deben declararse como públicos
 ### Ejemplo
 ```java
+public class Persona{
+    String nombre;
+    int edad;
 
+    public Persona(String n, int e){
+        nombre = n;
+        edad = e;
+    }
+
+    public void mostrarDatos(){
+        System.out.println("Nombre: " + nombre);
+        System.out.println("Edad: " + edad);
+    }
+
+    public static void main(String[] args) {
+        Persona persona1 = new Persona("Daniel",20);
+
+        persona1.mostrarDatos();
+    }
+}
 ```
+
+
