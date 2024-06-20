@@ -23,3 +23,5 @@
 [Sobrecarga de Métodos](teoriaJAVA/SobrecargasDeMetodos.md#sobrecargademetodos)
 
 [Modificadores de acceso](teoriaJAVA/ModificadoresDeAcceso.md#modificadoresdeacceso)
+
+[Encapsulamiento (Getters y Setters)](teoriaJAVA/Encapsulamiento.md#encapsulamiento)
