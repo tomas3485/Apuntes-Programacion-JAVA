@@ -25,3 +25,5 @@
 [Modificadores de acceso](teoriaJAVA/ModificadoresDeAcceso.md#modificadoresdeacceso)
 
 [Encapsulamiento (Getters y Setters)](teoriaJAVA/Encapsulamiento.md#encapsulamiento)
+
+[Herencia](teoriaJAVA/Herencia.md#herencia)
