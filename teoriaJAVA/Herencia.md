@@ -54,3 +54,5 @@ public class Main {
     }
 }
 ```
+En este ejemplo, la clase Perro hereda de Animal, lo que significa que Perro tiene todos los métodos y propiedades de Animal, pero también puede tener sus propios métodos y propiedades.
+Además, Perro puede sobrescribir los métodos de Animal para proporcionar su propia implementación
