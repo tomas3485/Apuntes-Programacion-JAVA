@@ -56,3 +56,6 @@ public class Main {
 ```
 En este ejemplo, la clase Perro hereda de Animal, lo que significa que Perro tiene todos los métodos y propiedades de Animal, pero también puede tener sus propios métodos y propiedades.
 Además, Perro puede sobrescribir los métodos de Animal para proporcionar su propia implementación
+## Sobre escritura de miembros
+Se denomina escritura de métodos cuando en clases hijas usamos un método heredado de la clase padre pero lo modificamos en su interior.
+Lo observamos en el ejemplo anterior en la subclase Perro en el método hacerSonido y lo indica el @Override que aparecera automaticamente cuando la clase hereda de otra y tiene una *sobre escritura* de la que hereda.
