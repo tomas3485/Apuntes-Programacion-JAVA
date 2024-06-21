@@ -1,6 +1,7 @@
 # Ventanas - JFrame
 Para usar ventanas debemos importar su libreria: **import javax.swing.JFrame**
 - Clase Ventana
+
 En el método constructor indicamos el tamaño que tendrá nuestra ventana.
 ```java
 import javax.swing.JFrame;
