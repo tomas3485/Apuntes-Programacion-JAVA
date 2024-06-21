@@ -4,23 +4,23 @@ Es una clase que no se puede instanciar directamente. Se utiliza como una planti
 - No se pueden instanciar objetos.
 - Sirve para proporcionar una super clase apropiada a partir de la cual heredan otras clases.
 ## Características de las Clases Abstractas:
-- Declaración: Se declara con la palabra clave abstract.
+- **Declaración**: Se declara con la palabra clave abstract.
 ```java
 public abstract class Animal {
     public abstract void hacerSonido();
 }
 ```
-- Métodos Abstractos: Puede contener métodos abstractos, que son métodos sin implementación. Las subclases deben implementar estos métodos.
+- **Métodos Abstractos**: Puede contener métodos abstractos, que son métodos sin implementación. Las subclases deben implementar estos métodos.
 ```java
 public abstract void hacerSonido(); // Método abstracto
 ```
-- Métodos Concretos: Puede también contener métodos con implementación (métodos concretos) que pueden ser utilizados por las subclases.
+- **Métodos Concretos**: Puede también contener métodos con implementación (métodos concretos) que pueden ser utilizados por las subclases.
 ```java
 public void dormir() {
     System.out.println("El animal está durmiendo");
 }
 ```
-- Herencia: Las subclases que heredan de una clase abstracta deben proporcionar implementaciones para todos los métodos abstractos de la clase padre.
+- **Herencia**: Las subclases que heredan de una clase abstracta deben proporcionar implementaciones para todos los métodos abstractos de la clase padre.
 ```java
 public class Perro extends Animal {
     @Override
