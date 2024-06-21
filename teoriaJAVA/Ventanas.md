@@ -28,23 +28,22 @@ public class Main{
     }
 }
 ```
-## Cierre de ventana y título
-A partir del programa anterior:
-- Para que se cierre la ventana añadiremos en el métodod constructor el método **setDefaultCloseOperation(EXIT_ON_CLOSE);**
+A partir de este programa:
+### Para que se cierre la ventana añadiremos en el métodod constructor el método **setDefaultCloseOperation(EXIT_ON_CLOSE);**
 ```java
 public Ventana(){
         setSize(500,500); //(ancho,alto)
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 ```
-- Para añadir un título a la ventana añadiremos en el método constructor el método **setTitle("El titulo");**
+### Añadir un título a la ventana añadiremos en el método constructor el método **setTitle("El titulo");**
 ```java
 public Ventana(){
         setSize(500,500); //(ancho,alto)
         setTitle("España");
     }
 ```
-##Posición inicial de la ventana
+### Posición inicial de la ventana
 A partir del programa anterior:
 Añadimos al constructor el método **setLocation(x,y)** donde x e y son numeros enteros con funcion de coordenadas.
 ```java
@@ -53,7 +52,7 @@ public Ventana(){
         setLocation(50,50);  //(x,y)
     }
 ```
-- Para indicar el tamaño de la ventana y las coordenadas donde aparece esta a la vez podemos usar el método **setBounds(x,y,ancho,largo)** directamente.
+### Para indicar el tamaño de la ventana y las coordenadas donde aparece esta a la vez podemos usar el método **setBounds(x,y,ancho,largo)** directamente.
 ```java
 public Ventana(){
         //setSize(500,500); //(ancho,alto)
@@ -61,14 +60,14 @@ public Ventana(){
         setBounds(50,50,500,500);  //(x,y,ancho,largo)
     }
 ```
-- Para que te salga en el centro de cualquier pantalla(monitor) usamos el método **setLocationRelativeTo(null);**
+### Para que te salga en el centro de cualquier pantalla(monitor) usamos el método **setLocationRelativeTo(null);**
 ```java
   public Ventana(){
         setBounds(50,50,500,500);  //(x,y,ancho,largo)
         setLocationRelativeTo(null);  //centrado
     }
 ```
-- Para establecer si una ventana puede cambiar de tamaño o no usamos el método **setResizable(false);**
+### Para establecer si una ventana puede cambiar de tamaño o no usamos el método **setResizable(false);**
 ```java
   public Ventana(){
         setBounds(50,50,500,500);  //(x,y,ancho,largo)
@@ -76,7 +75,7 @@ public Ventana(){
         setResizable(false);  //no puede cambiar (true) ->si puede cambiar (-)
     }
 ```
-- Para establecer el tamaño mínimo importaremos la libreria **import java.awt.Dimension;** y usaremos el método **setMinimumSize(new Dimension(x,y);** donde los valores de x e y seran enteros que
+### Para establecer el tamaño mínimo importaremos la libreria **import java.awt.Dimension;** y usaremos el método **setMinimumSize(new Dimension(x,y);** donde los valores de x e y seran enteros que
   indiquen las coordenadas.
 ```java
   public Ventana(){
@@ -86,7 +85,7 @@ public Ventana(){
         setMinimumSize(new Dimension(30,30)); //nueva dimension
     }
 ```
-- Para establecer un color al fondo de la ventana importaremos la libreria **import java.awt.Color;** y usaremos el método **this.getContentPane().setBackground(Color.BLUE);**
+### Para establecer un color al fondo de la ventana importaremos la libreria **import java.awt.Color;** y usaremos el método **this.getContentPane().setBackground(Color.BLUE);**
 en este caso en color azul
 ```java
   public Ventana(){
