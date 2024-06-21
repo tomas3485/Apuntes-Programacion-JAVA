@@ -1,6 +1,8 @@
 # Herencia
 La herencia nos permite crear una nueva clase basada en una clase existente. La nueva clase, llamada subclase o clase hija, hereda propiedades
 y métodos de la clase existente, llamada superclase o clase padre.
+## Ejemplo de Herencia en UML
+![MensajeEntradaInt](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/FotoHerencia.jpg)
 ## ¿Cómo funciona la herencia en Java?
 ### Superclase (Clase Padre)
 Es la clase de la que se heredan propiedades y comportamientos.
