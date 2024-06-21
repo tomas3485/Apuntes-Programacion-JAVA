@@ -38,6 +38,7 @@ public class Main{
 }
 ```
 Inicialmente al igual que las ventanas, se verá invisible. En el ejemplo anteror de las ventanas dejamos la ventana v1 con un fondo azul. Ahora que hemos añadido el panel p1, el fondo vuelve a ser blanco(que es lo que entendemos por fondo invisible inicialmente)
+
 Si ahora cambiamos el color al panel, podemos hacerlo o bien en el constructor de la clase o bien usando un método directaente en el main. Por eso, si queremos que todos o casi todos nuestros paneles sean de un color en concreto lo mejor será hacer este cambio de color en el constructor y si queremos hacer cambios puntuales mejor en el main al panel(objeto) en concreto.
 - Cambio de color en el constructor
 ```java
