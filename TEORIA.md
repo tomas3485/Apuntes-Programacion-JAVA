@@ -29,3 +29,5 @@
 [Herencia](teoriaJAVA/Herencia.md#herencia)
 
 [Clases Abstactas](teoriaJAVA/ClasesAbstractas.md#clasesabstactas)
+
+[Polimorfismo](teoriaJAVA/Polimorfismo.md#polimorfismo)
