@@ -6,7 +6,7 @@ Se puede realizar en el constructor o en otro método.
 Hay que importar su libreria **import javax.swing.JPanel;**
 - Clase Panel
 ```java
-`import javax.swing.JPanel;
+import javax.swing.JPanel;
 public class Panel extends JPanel{
 
 }
