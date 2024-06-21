@@ -27,3 +27,5 @@
 [Encapsulamiento (Getters y Setters)](teoriaJAVA/Encapsulamiento.md#encapsulamiento)
 
 [Herencia](teoriaJAVA/Herencia.md#herencia)
+
+[Clases Abstactas](teoriaJAVA/ClasesAbstractas.md#clasesabstactas)
