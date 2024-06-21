@@ -12,6 +12,7 @@ public class Ventana extends JFrame{
 }
 ```
 - Main
+
 Aqui podemos crear tantas ventanas(objetos de la clase Ventana) como queramos en nuestro programa.
 ```java
 public class Main{
