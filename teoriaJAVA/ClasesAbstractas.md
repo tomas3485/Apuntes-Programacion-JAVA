@@ -3,6 +3,9 @@ Es una clase que no se puede instanciar directamente. Se utiliza como una planti
 - Se utilizan sólo como superclases.
 - No se pueden instanciar objetos.
 - Sirve para proporcionar una super clase apropiada a partir de la cual heredan otras clases.
+## Ejemplo de Clase Abstacta en UML
+![MensajeEntradaInt](https://github.com/DanielBraun11/ApuntesProgramacionJAVA/blob/main/fotosJAVA/FotoClaseAbstracta.jpg) 
+
 ## Características de las Clases Abstractas:
 - **Declaración**: Se declara con la palabra clave abstract.
 ```java
