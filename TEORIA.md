@@ -36,3 +36,5 @@
 
 ## Interfaces Gráficas
 [Ventanas(JFrames)](teoriaJAVA/Ventanas.md#ventanas)
+
+[Paneles(JPanel)](teoriaJAVA/Paneles.md#paneles)
