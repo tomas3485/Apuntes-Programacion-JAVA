@@ -20,12 +20,12 @@ JButton boton2 = new JButton("Boton");  //Creo boton2 con texto "Boton" dentro
 ```java
 boton1.setText("Texto"); //Agrego un texto al boton1
 ```
-### Activar y desactivar el boton
+### Activar y desactivar el botón
 ```java
 boton2.setEnable(true); //boton2 funciona (activado)
 boton1.setEnable(false); //boton2 no funciona (desactivado)
 ```
-### Presionar el boton sin el rato (Ctrl + letra)
+### Presionar el botón sin el rato (Ctrl + letra)
 ```java
 boton1.setMnemonic('a'); //Presionando Ctrl + a = click del raton en el botón
 ```
