@@ -37,3 +37,7 @@ boton1.setForeground(Color.BLUE); //color de letra azul
 ```java
 boton2.setIcon(new ImageIcon(imagen2.getImagen().getScaledInstance(boton2.getWidth(),boton2.getHeight(),Image.SCALE_SMOOTH)); //(ancho,largo,escalado adacptados a los del boton)
 ```
+### Cambiar el color de fondo del botón
+```java
+boton2.setBackground(Color.gray); //Boton con fondo de color gris
+```
