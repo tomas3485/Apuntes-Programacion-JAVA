@@ -35,12 +35,12 @@
 [Gestión de Excepciones](teoriaJAVA/GestionDeExcepciones.md#gestiondeexcepciones)
 
 ## Interfaces Gráficas
-[Ventanas(JFrames)](teoriaJAVA/Ventanas.md#ventanas)
+[Ventanas (JFrames)](teoriaJAVA/Ventanas.md#ventanas)
 
-[Paneles(JPanel)](teoriaJAVA/Paneles.md#paneles)
+[Paneles (JPanel)](teoriaJAVA/Paneles.md#paneles)
 
-[Etiquetas(JLabel)](teoriaJAVA/Etiquetas.md#etiquetas)
+[Etiquetas (JLabel)](teoriaJAVA/Etiquetas.md#etiquetas)
 
-[Botones(JButton)](teoriaJAVA/Botones.md#botones)
+[Botones (JButton)](teoriaJAVA/Botones.md#botones)
 
-[Botones de Opciones(JRadioButton)](teoriaJAVA/BotonesDeOpciones.md#botonesdeopciones)
+[Botones de Opciones (JRadioButton)](teoriaJAVA/BotonesDeOpciones.md#botonesdeopciones)
