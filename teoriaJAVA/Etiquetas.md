@@ -144,4 +144,9 @@ Se recomienda mirar el ancho y largo de la imagen y ponerlo igual para no perder
 e3.setBounds(40,40,30,50); //(x,y,ancho,largo)
 ```
 ### Cambiar el tamaño de la imagen
+Una vez tengamos la imagen y la etiqueta por separado y tengamos instanciada la etiqueta con su posición y tamaño.
+```java
+e3.setIcon(new ImageIcon(imagen1.getImage().getScaledInstance(5,10,13))); //(ancho,largo,escalado)
+```
+Escalado recomendado: **Image.SCALE_SMOOTH**
 
