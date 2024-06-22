@@ -6,6 +6,7 @@ JTextField cajaTexto1 = new JTextField(); //caja vacía
 JTextField cajaTexto1 = new JTextField("Escribe..."); //caja con texto
 ```
 ### Constructores de las cajas de texto
+- Indicar el numero de columnas
 ```java
 JTextField cajaTexto1 = new JTextField("Hola",50); //(texto,numeroDeColumnas)
 ```
@@ -14,6 +15,11 @@ Además, si no ponemos este método setBounds() para indicar la posición de nue
 
 Para que nos haga caso deberemos activar el diseño del panel si esque lo teniamos desactivado mediante **p1.setLayout(null);**
 Simplemente borramos o comentamos esa sentencia.
+- Optener el texto que haya dentro de la caja
+```java
+System.out.println("Texto en la caja: " + cajaTexto1.getText());
+```
+Si hemos inicializado la caja con texto ese será el que nos mostrará.
 ### Agregar caja de texto al panel
 ```java
 p1.add(cajaTexto);
