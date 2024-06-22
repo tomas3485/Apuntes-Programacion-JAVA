@@ -11,6 +11,7 @@ JTextField cajaTexto1 = new JTextField("Hola",50); //(texto,numeroDeColumnas)
 ```
 Sin embargo, ese numero de columnas (50) será ignorado/cambiado si después usas el método setBounds() donde indicas el ancho(numero de columnas).
 Además, si no ponemos este método setBounds() para indicar la posición de nuestra caja de texto esta no se verá en el panel. Entonces, ¿que hacemos?
+
 Para que nos haga caso deberemos activar el diseño del panel si esque lo teniamos desactivado mediante **p1.setLayout(null);**
 Simplemente borramos o comentamos esa sentencia.
 ### Agregar caja de texto al panel
