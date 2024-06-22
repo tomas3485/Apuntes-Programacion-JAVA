@@ -127,7 +127,7 @@ JLabel e3 = new JLabel(new ImageIcon("nombre.jpg");
 También se podria hacer de estas pormas:
 ```java
 ImageIcon imagen1 = new ImageIcon("nombre.jpg");
-JLabel e3 = new JLable(imagen1);
+JLabel e3 = new JLabel(imagen1);
 ```
 O así:
 ```java
