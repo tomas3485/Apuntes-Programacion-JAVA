@@ -66,6 +66,6 @@
 [Singleton](teoriaJAVA/Singleton.md#singleton)
 
 ### Estructurales
-[Adapter](teoriaJAVA/Adaper.md#adapter)
+[Adapter](teoriaJAVA/Adapter.md#adapter)
 
 ### De comportamiento
