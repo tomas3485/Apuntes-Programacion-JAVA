@@ -55,3 +55,5 @@
 [Hilos](teoriaJAVA/Hilos.md#hilos)
 
 [Serialización](teoriaJAVA/Serializacion.md#serializacion)
+
+## Patrones de Diseño
