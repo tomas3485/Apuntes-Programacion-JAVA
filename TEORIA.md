@@ -62,3 +62,9 @@
 [Factory Method](teoriaJAVA/FactoryMethod.md#factorymethod)
 
 [Abstract Factory](teoriaJAVA/AbstractFactory.md#abstractfactory)
+
+[Singleton](teoriaJAVA/Singleton.md#singleton)
+
+### Estructurales
+
+### De comportamiento
