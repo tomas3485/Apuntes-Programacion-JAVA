@@ -1,6 +1,6 @@
 # Factory Method
 El patrón Factory Method define una interfaz para crear un objeto, pero deja que las subclases decidan qué clase instanciar.
-### ejemplo:
+### Ejemplo:
 ```java
 // Interfaz Producto
 interface Product {
