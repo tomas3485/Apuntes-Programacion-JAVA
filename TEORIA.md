@@ -50,3 +50,4 @@
 
 
 ## Temas Avanzados
+[Serialización](teoriaJAVA/Serializacion.md#serializacion)
