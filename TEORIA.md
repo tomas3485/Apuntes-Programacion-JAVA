@@ -57,3 +57,6 @@
 [Serialización](teoriaJAVA/Serializacion.md#serializacion)
 
 ## Patrones de Diseño
+
+### Creacionales
+[Factory Method](teoriaJAVA/FactoryMethod.md#factorymethod)
