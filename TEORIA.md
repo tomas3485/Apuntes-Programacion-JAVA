@@ -40,6 +40,8 @@
 
 [RuntimeException](teoriaJAVA/RuntimeException.md#runtimeexception)
 
+[IOException](teoriaJAVA/IOException.md#ioexception)
+
 ## Interfaces Gráficas
 [Ventanas (JFrames)](teoriaJAVA/Ventanas.md#ventanas)
 
