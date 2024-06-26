@@ -36,6 +36,8 @@
 
 [Polimorfismo](teoriaJAVA/Polimorfismo.md#polimorfismo)
 
+## Gestión de Excepciones
+
 [Gestión de Excepciones](teoriaJAVA/GestionDeExcepciones.md#gestiondeexcepciones)
 
 ## Interfaces Gráficas
