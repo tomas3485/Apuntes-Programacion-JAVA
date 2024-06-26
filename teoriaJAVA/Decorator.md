@@ -70,7 +70,7 @@ public class DecoratorPatternDemo {
     }
 }
 ```
-### Explicación de programa
+### Explicación del programa
 En este ejemplo, hemos utilizado el patrón Decorator para agregar una funcionalidad adicional (color del borde) a un objeto Circle sin modificar la clase Circle original.
 La clase RedShapeDecorator es responsable de agregar esta funcionalidad adicional. Puedes seguir creando más decoradores concretos para agregar otras funcionalidades según
 sea necesario, manteniendo el diseño flexible y extensible.
