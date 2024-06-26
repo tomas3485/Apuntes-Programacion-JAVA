@@ -1,4 +1,4 @@
-# RuntimeExcepcion
+# RuntimeException
 Son un tipo de excepción en Java que el compilador no obliga a capturar explícitamente.
 ## ArithmeticException
 La **ArithmeticException** se lanza cuando ocurre una operación aritmética inválida. El escenario más común es la división por cero:
