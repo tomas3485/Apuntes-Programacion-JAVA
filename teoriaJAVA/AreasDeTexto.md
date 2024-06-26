@@ -17,3 +17,23 @@ areaTexto.setBounds(20,20,300,200); //(x,y,ancho,alto)
 ```java
 areaTexto.setText("Escribe el texto: ");
 ```
+### Añadir el área de Texto a un panel
+```java
+panel.add(areaTexto);
+```
+### Añadir texto al área de texto
+Añadiremos una cadena de texto al que ya pueda tener el área
+```java
+areaTexto.append(""); //Añade mas texto al area
+```
+### Conceder permisos de edicion sobre el área
+```java
+areaTexto.setEditable(true); //Editable
+areaTexto.setEditable(false); //No editable
+```
+### Obtener el texto que hay en el área
+```java
+String texto = areaTexto.getText();
+System.out.println(texto);
+System.out.println(areaTexto.getText());
+```
