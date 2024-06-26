@@ -11,6 +11,8 @@
 
 [Vector](teoriaJAVA/Vectores.md#vectores)
 
+[Enums](teoriaJAVA/Enum.md#enum)
+
 [Ordenamientos](teoriaJAVA/Ordenamientos.md#ordenamientos)
 
 [Busqueda Secuencial](teoriaJAVA/BusquedaSecuencial.md#busquedasecuencial)
