@@ -68,4 +68,6 @@
 ### Estructurales
 [Adapter](teoriaJAVA/Adapter.md#adapter)
 
+[Decorator](teoriaJAVA/Decorator.md#decorator)
+
 ### De comportamiento
