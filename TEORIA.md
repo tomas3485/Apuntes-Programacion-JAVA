@@ -57,6 +57,8 @@
 
 [Área de texto (JTextArea)](teoriaJAVA/AreasDeTexto.md#areasdetexto)
 
+[Lista Desplegable (JComboBox)](teoriaJAVA/ListasDesplegables.md#listasdesplegables)
+
 
 
 ## Temas Avanzados
