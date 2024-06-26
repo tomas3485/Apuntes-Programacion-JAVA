@@ -38,7 +38,7 @@
 
 ## Gestión de Excepciones
 
-[Gestión de Excepciones](teoriaJAVA/GestionDeExcepciones.md#gestiondeexcepciones)
+[RuntimeException](teoriaJAVA/RuntimeException.md#runtimeexception)
 
 ## Interfaces Gráficas
 [Ventanas (JFrames)](teoriaJAVA/Ventanas.md#ventanas)
