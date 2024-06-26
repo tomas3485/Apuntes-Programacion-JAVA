@@ -71,3 +71,4 @@
 [Decorator](teoriaJAVA/Decorator.md#decorator)
 
 ### De comportamiento
+[Chain of Responsability](teoriaJAVA/ChainOfResponsability.md#chainofresponsability)
