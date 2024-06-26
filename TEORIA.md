@@ -74,3 +74,5 @@
 [Chain of Responsibility](teoriaJAVA/ChainOfResponsibility.md#chainofresponsibility)
 
 [State](teoriaJAVA/State.md#state)
+
+[Template Method](teoriaJAVA/TemplateMethod.md#templatemethod)
