@@ -55,6 +55,8 @@
 
 [Caja de texto (JTextField)](teoriaJAVA/CajasDeTexto.md#cajadetexto)
 
+[Área de texto (JTextArea)](teoriaJAVA/AreasDeTexto.md#areasdetexto)
+
 
 
 ## Temas Avanzados
