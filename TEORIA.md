@@ -76,3 +76,5 @@
 [State](teoriaJAVA/State.md#state)
 
 [Template Method](teoriaJAVA/TemplateMethod.md#templatemethod)
+
+[Observer](teoriaJAVA/Observer.md#observer)
