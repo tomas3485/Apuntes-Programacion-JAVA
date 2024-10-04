@@ -92,3 +92,13 @@ public class Persona{
 }
 ```
 
+## Variable string -> Variable int
+El método *Integer.parseInt(String cadena)* en Java es utilizado para convertir una cadena de texto (string) que contiene una representación numérica en un número entero de tipo *int*. Es parte de la clase *Integer* y es útil cuando tienes una entrada de texto que representa un número y necesitas convertirlo para poder realizar operaciones aritméticas u otras manipulaciones numéricas.
+
+Ejemplo:
+```java
+String numeroEnTexto = "42";
+int numero = Integer.parseInt(numeroEnTexto);
+System.out.println("El número es: " + numero); // Salida: El número es: 42
+```
+
