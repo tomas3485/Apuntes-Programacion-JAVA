@@ -7,6 +7,8 @@
 
 [Condicionales](teoriaJAVA/Condicionales.md#condicionales)
 
+[String](teoriaJAVA/String.md#string)
+
 [Array](teoriaJAVA/Array.md#array)
 
 [Vector](teoriaJAVA/Vectores.md#vectores)
