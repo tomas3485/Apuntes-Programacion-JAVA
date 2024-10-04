@@ -102,3 +102,14 @@ int numero = Integer.parseInt(numeroEnTexto);
 System.out.println("El número es: " + numero); // Salida: El número es: 42
 ```
 
+Si no sabemos si la cadena de texto es valida como contenido de una variable de tipo int, podemos usar lo siguiente:
+```java
+try {
+// Convertir la entrada a número y agregarla a la lista
+int numero = Integer.parseInt(entrada);
+numeros.add(numero);
+
+} catch (NumberFormatException e) {
+System.out.println("Por favor, introduce un número válido o 'x' para salir.");
+}
+```
