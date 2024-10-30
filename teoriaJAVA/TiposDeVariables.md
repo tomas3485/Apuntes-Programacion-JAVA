@@ -27,7 +27,7 @@ public class ClaseMain {
 }
 ```
 ## Constantes: final
-Al colocar "final" estamos indicando que el valor de esa variable no va a cambiar a lo largo del programa.
+Al colocar `final` estamos indicando que el valor de esa variable no va a cambiar a lo largo del programa.
 Siempre va a valer lo mismo.
 No te permite crear un encapsulamiento set dado que no cambia.
 ```java
