@@ -82,7 +82,7 @@ public class HilosEjemplo {
 ```
 En este ejemplo, la clase **HiloRunnable** implementa la interfaz **Runnable** y sobrescribe el método **run()**. Los hilos se crean pasando una instancia de **HiloRunnable**
 al constructor de **Thread**, y se inician llamando al método **start()**.
-##Sincronización de Hilos
+## Sincronización de Hilos
 Cuando varios hilos acceden a recursos compartidos, es crucial sincronizarlos para evitar condiciones de carrera y mantener la consistencia de los datos.
 Esto se puede hacer utilizando el bloque **synchronized** o métodos sincronizados.
 
