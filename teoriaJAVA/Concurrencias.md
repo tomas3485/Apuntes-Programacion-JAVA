@@ -16,8 +16,8 @@ Un hilo es la unidad más básica de ejecución concurrente en Java. Un programa
 Los hilos permiten que un programa ejecute varias partes de su código simultáneamente.
 
 Por ejemplo:
-    - Un hilo puede encargarse de descargar datos de internet.
-    - Otro puede procesar esos datos al mismo tiempo.
+- Un hilo puede encargarse de descargar datos de internet.
+- Otro puede procesar esos datos al mismo tiempo.
 
 En Java, los hilos se pueden crear de dos maneras principales:
 1. Extendiendo la clase Thread:
@@ -56,11 +56,14 @@ hilo.start(); // Comienza la ejecución del hilo
 
 Java proporciona muchas herramientas en el paquete `java.util.concurrent` para trabajar con concurrencia de forma más eficiente y menos propensa a errores:
 
-    - Executor Framework: Maneja automáticamente los hilos y las tareas.
-    - Locks explícitos: (`ReentrantLock`, por ejemplo) para control más preciso.
-    - Clases sincronizadas: Como `ConcurrentHashMap` o `CopyOnWriteArrayList`.
+- Executor Framework: Maneja automáticamente los hilos y las tareas.
+- Locks explícitos: (`ReentrantLock`, por ejemplo) para control más preciso.
+- Clases sincronizadas: Como `ConcurrentHashMap` o `CopyOnWriteArrayList`.
 
+En resumen:
 
+- Concurrencia es un concepto más amplio relacionado con cómo diseñar sistemas que pueden manejar múltiples tareas simultáneamente.
+- Hilos son uno de los medios más básicos para implementar concurrencia en Java.
 
 
 
