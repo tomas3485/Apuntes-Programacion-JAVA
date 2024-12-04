@@ -9,3 +9,56 @@ Esto incluye:
 3. Colas concurrentes: Para gestionar datos entre hilos de forma segura.
 4. Sincronización: Mecanismos para evitar problemas como condiciones de carrera o acceso simultáneo no controlado a recursos compartidos.
 
+En esencia, la concurrencia trata de la gestión de múltiples tareas que progresan de manera eficiente y coordinada.
+
+# Hilos
+Un hilo es la unidad más básica de ejecución concurrente en Java. Un programa en Java siempre tiene al menos un hilo principal (el que ejecuta el método main).
+Los hilos permiten que un programa ejecute varias partes de su código simultáneamente.
+
+Por ejemplo:
+- Un hilo puede encargarse de descargar datos de internet.
+- Otro puede procesar esos datos al mismo tiempo.
+
+En Java, los hilos se pueden crear de dos maneras principales:
+1. Extendiendo la clase Thread:
+```java
+class MiHilo extends Thread {
+    public void run() {
+        System.out.println("Este es un hilo en ejecución");
+    }
+}
+
+MiHilo hilo = new MiHilo();
+hilo.start(); // Comienza la ejecución del hilo
+```
+
+2. Implementando la interfaz Runnable:
+```java
+class MiTarea implements Runnable {
+    public void run() {
+        System.out.println("Tarea concurrente en ejecución");
+    }
+}
+
+Thread hilo = new Thread(new MiTarea());
+hilo.start(); // Comienza la ejecución del hilo
+```
+
+### Diferencias principales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
