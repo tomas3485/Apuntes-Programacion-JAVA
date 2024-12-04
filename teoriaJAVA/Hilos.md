@@ -131,5 +131,5 @@ public class SincronizacionEjemplo {
     }
 }
 ```
-En este ejemplo, el método incrementar() está sincronizado para asegurar que solo un hilo pueda ejecutarlo a la vez, garantizando así la consistencia del valor del contador.
+En este ejemplo, el método ``incrementar()`` está sincronizado para asegurar que solo un hilo pueda ejecutarlo a la vez, garantizando así la consistencia del valor del contador.
 
