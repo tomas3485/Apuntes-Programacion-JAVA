@@ -66,7 +66,9 @@
 
 
 ## Temas Avanzados
-[Hilos](teoriaJAVA/Hilos.md#hilos)
+[Concurrencias + Hilos 1](teoriaJAVA/Concurrencias.md#concurrencias)
+
+[Hilos 2](teoriaJAVA/Hilos.md#hilos)
 
 [Serialización](teoriaJAVA/Serializacion.md#serializacion)
 
