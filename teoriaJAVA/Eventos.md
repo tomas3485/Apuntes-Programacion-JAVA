@@ -76,7 +76,11 @@ public class MiVentana extends JFrame implements ActionListener {
 Cuando ejecutas este programa y clicas el botón, se dispara un evento de acción, invocando el método actionPerformed, y se muestra el mensaje en la consola.
 Este es un ejemplo sencillo pero ilustra claramente cómo funcionan los ActionListener en Java.
 
-
+Esta seria otra manera de hacerlo : 
+```java
+// Acción para mostrar todos los estudiantes
+        botonMostrarTodos.addActionListener(e -> cardLayout.show(panelPrincipal, Panel.MOSTRAR_TODOS.getNombreInterno()));
+```
 
 
 
