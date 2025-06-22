@@ -9,7 +9,7 @@ Estas listas desplegables las podemos inicializar con contenedores como por ejem
 String[] paises = {"Espania", "Alemania", "Italia", "Portugal"}; //contenedor de paises
 JComboBox listaDesplegable = new JComboBox(paises);  //lista inicializada con el contenedor
 ```
-Debemos indicar el tamaño de la lista y donde va a situarse en el panel.
+Debemos indicar el tamaño de la lista y donde va a situarse en el panel. (no hace falta)
 ```java
 listaDesplegable.setBounds(20,20,300,200); //(x,y,ancho,alto)
 ```
