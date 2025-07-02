@@ -65,5 +65,26 @@ public class Main{
 Ahora que tenemos nuestro panel sobre la ventana, podemos escribir sobre él y poner botones, imagenes, textos...
 También podemos hacer todo esto en la misma ventana sin necesidad de panel pero NO SE RECOMIENDA.
 
+Se le puede dar un distribucion de celdas a el  panel.
+```java
+JPanel panelEntrada = new JPanel(new GridLayout(5, 2, 10, 10));
+        JTextField campoNombre = new JTextField();
+        JTextField campoEdad = new JTextField();
+        JTextField campoMatricula = new JTextField();
+        String[] opciones = {"Grado", "Posgrado"};
+        JComboBox<String> comboTipo = new JComboBox<>(opciones);
+        JTextField campoExtra = new JTextField();
 
+        panelEntrada.add(new JLabel("Nombre:"));
+        panelEntrada.add(campoNombre);
+        panelEntrada.add(new JLabel("Edad:"));
+        panelEntrada.add(campoEdad);
+        panelEntrada.add(new JLabel("Número de Matrícula:"));
+        panelEntrada.add(campoMatricula);
+        panelEntrada.add(new JLabel("Tipo de Estudiante:"));
+        panelEntrada.add(comboTipo);
+        panelEntrada.add(new JLabel("Carrera o Línea de Investigación:"));
+        panelEntrada.add(campoExtra);
+        add(panelEntrada, BorderLayout.CENTER);
+```
 
